@@ -35,7 +35,7 @@ for(int k=0;k<4;k++)
 }
 dou(ptr,4,4);	
 	int a1= 5,a2=10;
-	printf("values before swap= %d,%d",a,b);
+	printf("values before swap= %d,%d",a1,a2);
 	swap(&a1,&a2);
-	printf("values after swap= %d,%d",a,b);
+	printf("values after swap= %d,%d",a1,a2);
 }

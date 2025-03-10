@@ -56,7 +56,6 @@ int main()
 	insert(&top,6);
 	insert(&top,7);
 	insert(&top,8);
-	insert(&top,8);
 	insert(&top,9);
 	insert(&top,10);
 	insert(&top,12);

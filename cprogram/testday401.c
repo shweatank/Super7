@@ -1,9 +1,7 @@
 /*Function Table:
 Create a function table containing pointers to different functions. Use this table to invoke the appropriate function based on an input value.
 3. Sorting with Function Pointers:
-Implement a generic sorting algorithm that takes a function pointer as a comparison function. Use this to sort arrays of different data     types (e.g., integers, floating-point numbers, strings) .*/
-
-
+*/
 #include <stdio.h>
 typedef enum {
     ADD,

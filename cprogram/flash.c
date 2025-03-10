@@ -10,7 +10,7 @@ int main(){
 	l a;
   unsigned char*b=(unsigned char*)&a;
    a.i=0;
-   *b=0x2c;
+   *b=23;
    b=b+1;
    *b=0x1;
    b=b+3;

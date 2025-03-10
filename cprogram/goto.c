@@ -1,5 +1,4 @@
 #include<stdio.h>
-
 void checkEven(int num)
 {
 	if (num%2==0)
